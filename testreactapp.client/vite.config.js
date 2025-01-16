@@ -59,6 +59,5 @@ export default defineConfig({
         }
     },
     optimizeDeps: {
-        exclude: ['react-navigation_native']
     }
 })
